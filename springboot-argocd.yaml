@@ -9,7 +9,7 @@ spec:
   source:
     repoURL: https://github.com/Lakshmansai1999/springboot-helm.git
     targetRevision: master
-    path: .
+    path: springboot
 
   destination:
     server: https://kubernetes.default.svc
